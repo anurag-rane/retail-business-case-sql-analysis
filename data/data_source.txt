@@ -1,0 +1,16 @@
+Dataset: E-Commerce Retail Operations — Brazil (2016–2018)
+Source: Academic business case module — MSc AI & ML (Scaler/Woolf University)
+Volume: 100,000+ orders across 8 tables
+
+Tables:
+- customers.csv
+- orders.csv
+- order_items.csv
+- payments.csv
+- reviews.csv
+- products.csv
+- sellers.csv
+- geolocation.csv
+
+Note: Raw data files are not included in this repository.
+Dataset was provided as part of an academic programme and is not publicly redistributable.
